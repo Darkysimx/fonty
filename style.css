@@ -1,0 +1,19 @@
+body{
+    background-image:url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fhdqwalls.com%2Fwallpapers%2Fnissan-gtr-5k-2019-uh.jpg&f=1&nofb=1&ipt=12559bbc6f23de500f8132c0dd9e9242cf4b0f8720f3c1fe54c8e1a272fddfa4&ipo=images");
+background-size: cover;
+}
+.viramao{
+    position: fixed;
+    text-align: center;bottom: 0;
+    background-color: aliceblue;
+    width: 100%;
+    color: rgb(255, 187, 0);
+    line-height: 3;
+  font-weight: 700;
+}
+canvas{
+border: 5px solid orange;
+box-shadow: 10px 10px 10px gray;
+background-color: aliceblue;
+
+}
